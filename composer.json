@@ -1,6 +1,5 @@
 {
     "name": "genai/google-form",
-    "version": "1.0.0",
     "description": "Submit data to a Google Form from the server: POST to the form's formResponse endpoint, mapping your fields to entry.NNN ids. Best-effort with a short timeout so it never blocks the request (it returns false rather than throwing). curl with a stream fallback. PHP 5.3-safe.",
     "type": "library",
     "license": "Apache-2.0",
